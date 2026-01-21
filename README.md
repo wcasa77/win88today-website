@@ -1,4 +1,4 @@
-# Win88 Today - Official Website
+# Win88 Today
 
 Public marketing website for Win88 Today gaming platform.
 
