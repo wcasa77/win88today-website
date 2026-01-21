@@ -50,7 +50,7 @@ A quick visual tour of the Win88Today gaming experience across web and Telegram 
 
 | Home & Login | Games & Navigation | Multi-language |
 | --- | --- | --- |
-| <img src="https://game2.ubet.fun/images/web-page/main.PNG" alt="Main dashboard" width="240" /> | <img src="https://game2.ubet.fun/images/web-page/game-list1.PNG" alt="Game list view" width="240" /> | <img src="https://game2.ubet.fun/images/web-page/multi-language.PNG" alt="Language selector" width="240" /> |
+| <img src="https://game2.ubet.fun/images/web-page/main.PNG" alt="Main dashboard" width="240" /> | <img src="https://game2.ubet.fun/images/web-page/game-list1.PNG" alt="Game list view 1" width="240" /> | <img src="https://game2.ubet.fun/images/web-page/multi-language.PNG" alt="Language selector" width="240" /> |
 | <img src="https://game2.ubet.fun/images/web-page/login.PNG" alt="Login screen" width="240" /> | <img src="https://game2.ubet.fun/images/web-page/game-list3.PNG" alt="Game categories" width="240" /> | <img src="https://game2.ubet.fun/images/web-page/menus.PNG" alt="Main menu" width="240" /> |
 
 | Wallet & Funds | Transfers | Transactions |
@@ -169,7 +169,7 @@ Platform available in 20+ languages including:
 
 Need help? We're here for you:
 - In-app support chat
-- Email support: wincasa77@gmail.com
+- Email support
 - FAQ section
 - Community forums
 - Telegram support bot: **@WT88_User_Bot** (https://t.me/WT88_User_Bot)
